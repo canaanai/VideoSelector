@@ -1,0 +1,16 @@
+<resources>
+    <string name="folder_name">文件名</string>
+    <string name="image_num_video">视频数量</string>
+    <string name="all_folder_video">所有视频</string>
+    <string name="sheet_video">个</string>
+    <string name="shoot_video">录制视频</string>
+    <string name="video">视频</string>
+    <string name="finish">完成</string>
+    <string name="temp_date">2015年12月2日</string>
+    <string name="msg_no_camera">没有系统相机</string>
+    <string name="msg_amount_limit">已经达到最高选择数量</string>
+
+    <string name="open_camera_fail_video">选择器初始化失败!</string>
+    <string name="empty_sdcard">没有SD卡</string>
+
+</resources>

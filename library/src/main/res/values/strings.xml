@@ -1,0 +1,14 @@
+<resources>
+    <string name="folder_name">FolderName</string>
+    <string name="image_num_video">ImageNum</string>
+    <string name="all_folder_video">All Images</string>
+    <string name="sheet_video">sheet</string>
+    <string name="shoot_video">shoot</string>
+    <string name="video">video</string>
+    <string name="finish">finish</string>
+    <string name="temp_date">2015-4-1</string>
+    <string name="msg_no_camera_video">No system camera found</string>
+    <string name="msg_amount_limit">Select images amount is limit</string>
+
+
+</resources>
